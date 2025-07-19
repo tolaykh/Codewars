@@ -9,6 +9,14 @@ I'm using this repo to practice clean code, improve problem-solving skills, and 
 
 Solutions are organized by **language** and **difficulty level (Kyu)**:
 
+## About Kyu Levels
+
+Codewars uses **Kyu** ranks to indicate difficulty:  
+- **8 Kyu** = easiest (beginner level)  
+- Lower numbers = harder challenges  
+
+This repo starts from 8 Kyu and progresses toward more difficult problems.
+
 ## 🏅 Codewars Progress
 
 - 👤 Username: [tolaykh](https://www.codewars.com/users/tolaykh)
