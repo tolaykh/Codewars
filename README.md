@@ -5,7 +5,7 @@ I'm using this repo to practice clean code, improve problem-solving skills, and 
 
 ---
 
-## 🗂️ Structure
+## Structure
 
 Solutions are organized by **language** and **difficulty level (Kyu)**:
 
@@ -17,17 +17,16 @@ Codewars uses **Kyu** ranks to indicate difficulty:
 
 This repo starts from 8 Kyu and progresses toward more difficult problems.
 
-## 🏅 Codewars Progress
+## Codewars Progress
 
 - 👤 Username: [tolaykh](https://www.codewars.com/users/tolaykh)
 - 🔢 Language: C
-- 🎯 Goal: Solve harder problems over time
 
-## 🛠️ How to Run Solutions
+## How to Run Solutions
 
 gcc filename.c -o solution && ./solution
 
 ## 🔗 Connect
 
-- 👾 [My Codewars Profile](https://www.codewars.com/users/tolaykh)
-- 💻 [My GitHub Profile](https://github.com/tolaykh)
+- [My Codewars Profile](https://www.codewars.com/users/tolaykh)
+- [My GitHub Profile](https://github.com/tolaykh)
